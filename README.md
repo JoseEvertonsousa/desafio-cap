@@ -38,5 +38,5 @@ Para rodar os testes basta executar as classes :
 
 <p>
 Para executar o projeto e verificar os resultados no terminal execute a classe :</p>
-* DesafioMain.java
+* DesafioMain.java 
 
